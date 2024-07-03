@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1293-three-consecutive-odds](https://github.com/guptaaa19/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
