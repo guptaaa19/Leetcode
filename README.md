@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/guptaaa19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/guptaaa19/Leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/guptaaa19/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/guptaaa19/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -55,8 +56,13 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/guptaaa19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/guptaaa19/Leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/guptaaa19/Leetcode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptaaa19/Leetcode/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/guptaaa19/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
