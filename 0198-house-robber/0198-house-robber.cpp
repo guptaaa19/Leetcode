@@ -1,22 +1,23 @@
 class Solution {
 public:
-    int f(int idx, vector<int> &nums, vector<int> &dp) {
-        if (idx < 0) return 0; // Base case: index out of bounds
-        if (idx == 0) return nums[0]; // Base case: only one house to rob
-        if (dp[idx] != -1) return dp[idx]; // Return cached result
-        
-        // Choose to rob the current house or skip it
-        int pick = nums[idx] + f(idx - 2, nums, dp);
-        int notpick = f(idx - 1, nums, dp);
-        
-        return dp[idx] = max(pick, notpick);
-    }
-    
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if (n == 0) return 0; // Edge case: no houses
-        
-        vector<int> dp(n, -1); // Initialize dp array with -1
-        return f(n - 1, nums, dp); // Start from the last house
+        if(n == 0) return 0;
+        if(n == 1) return nums[0];
+
+        vector<int>dp(n,0);
+
+        // Base Case
+        dp[0] = nums[0];
+        dp[1] = max(nums[0], nums[1]);
+
+        for(int i=2;i<n;++i){
+            dp[i] = max(dp[i-1], nums[i]+ dp[i-2]);
+        }
+
+        return dp[n-1];
     }
 };
+
+
+// Tabulation
