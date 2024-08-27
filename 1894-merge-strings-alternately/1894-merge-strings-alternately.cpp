@@ -4,12 +4,11 @@ public:
         int n = word1.size();
         int m = word2.size();
         string res = "";
-        int i = 0 , j = 0;
-        while(i<n || j<m){
+        for(int i =0;i<max(n,m);i++){
             if(i<n)
-            res.push_back(word1[i++]);
-            if(j<m)
-            res.push_back(word2[j++]);
+            res.push_back(word1[i]);
+            if(i<m)
+            res.push_back(word2[i]);
         }
         return res;
     }
