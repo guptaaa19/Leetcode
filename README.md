@@ -25,6 +25,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/guptaaa19/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
