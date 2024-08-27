@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/guptaaa19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/guptaaa19/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/guptaaa19/Leetcode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/guptaaa19/Leetcode/tree/master/0792-binary-search) |
