@@ -58,6 +58,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptaaa19/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/guptaaa19/Leetcode/tree/master/1013-fibonacci-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/guptaaa19/Leetcode/tree/master/1642-water-bottles) |
 ## Divide and Conquer
 |  |
@@ -124,5 +125,6 @@
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
