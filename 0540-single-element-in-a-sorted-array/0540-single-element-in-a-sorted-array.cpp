@@ -2,15 +2,12 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
         int n = nums.size();
-        map<int,int>mp;
-        for(auto i : nums){
-            mp[i]++;
+        int ans = 0;
+        for(int i=0;i<n;i++){
+            ans = nums[i] ^ ans;
         }
-        for(auto i :mp){
-            if(i.second == 1){
-                return i.first;
-            }
-        }
-        return -1;
+        return ans;
     }
 };
+
+// (nlogn)
