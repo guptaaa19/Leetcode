@@ -1,28 +1,38 @@
 class Solution {
 public:
+    vector<int> memo;
+    vector<string> wordDict;
+    string s;
+
     bool wordBreak(string s, vector<string>& wordDict) {
-        unordered_set<string> words(wordDict.begin(), wordDict.end());
-        queue<int> queue;
-        vector<bool> seen(s.length(), false);
-        queue.push(0);
+        memo = vector(s.length(), -1);
+        this->wordDict = wordDict;
+        this->s = s;
+        return dp(s.length() - 1);
+    }
 
-        while(!queue.empty()){
-            int start = queue.front();
-            queue.pop();
+    bool dp(int i) {
+        if (i < 0) return true;
 
-            if(start == s.length())
-                return true;
-            
-            for(int end = start+1; end <= s.length(); end++){
-                if(seen[end])
+        if (memo[i] != -1) {
+            return memo[i] == 1;
+        }
+
+        for (string word : wordDict) {
+            int currSize = word.length();
+            // Handle out of bounds case
+            if (i - currSize + 1 < 0) {
                 continue;
-
-            if(words.find(s.substr(start,end - start))!=words.end()){
-                queue.push(end);
-                seen[end] = true;
             }
+
+            if (s.substr(i - currSize + 1, currSize) == word &&
+                dp(i - currSize)) {
+                memo[i] = 1;
+                return true;
             }
         }
+
+        memo[i] = 0;
         return false;
     }
 };
