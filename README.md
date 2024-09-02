@@ -55,6 +55,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/guptaaa19/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/guptaaa19/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/guptaaa19/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -104,6 +105,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/guptaaa19/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/guptaaa19/Leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
