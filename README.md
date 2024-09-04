@@ -17,6 +17,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/guptaaa19/Leetcode/tree/master/0792-binary-search) |
+| [0906-walking-robot-simulation](https://github.com/guptaaa19/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/guptaaa19/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/guptaaa19/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/guptaaa19/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0906-walking-robot-simulation](https://github.com/guptaaa19/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -68,6 +70,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/guptaaa19/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/guptaaa19/Leetcode/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/guptaaa19/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/guptaaa19/Leetcode/tree/master/2048-build-array-from-permutation) |
