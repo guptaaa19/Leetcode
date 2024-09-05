@@ -24,6 +24,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/guptaaa19/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/guptaaa19/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/guptaaa19/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/guptaaa19/Leetcode/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [2048-build-array-from-permutation](https://github.com/guptaaa19/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/guptaaa19/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/guptaaa19/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/guptaaa19/Leetcode/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/guptaaa19/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
@@ -84,6 +86,7 @@
 | [1013-fibonacci-number](https://github.com/guptaaa19/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/guptaaa19/Leetcode/tree/master/1642-water-bottles) |
+| [2155-find-missing-observations](https://github.com/guptaaa19/Leetcode/tree/master/2155-find-missing-observations) |
 ## Divide and Conquer
 |  |
 | ------- |
