@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/guptaaa19/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptaaa19/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/guptaaa19/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/guptaaa19/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -188,4 +190,12 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/guptaaa19/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
