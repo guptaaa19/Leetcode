@@ -100,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/guptaaa19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/guptaaa19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/guptaaa19/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/guptaaa19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -127,6 +128,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/guptaaa19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/guptaaa19/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/guptaaa19/Leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
@@ -169,6 +171,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/guptaaa19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
