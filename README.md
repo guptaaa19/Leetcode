@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/guptaaa19/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/guptaaa19/Leetcode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/guptaaa19/Leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptaaa19/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -46,6 +48,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaa19/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/guptaaa19/Leetcode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
