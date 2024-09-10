@@ -9,6 +9,7 @@
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/guptaaa19/Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/guptaaa19/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/guptaaa19/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/guptaaa19/Leetcode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptaaa19/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0189-rotate-array](https://github.com/guptaaa19/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptaaa19/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/guptaaa19/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/guptaaa19/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/guptaaa19/Leetcode/tree/master/1642-water-bottles) |
