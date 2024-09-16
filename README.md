@@ -36,6 +36,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/guptaaa19/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/guptaaa19/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@
 | [0010-regular-expression-matching](https://github.com/guptaaa19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/guptaaa19/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Trie
@@ -192,6 +194,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/guptaaa19/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/guptaaa19/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
@@ -214,4 +217,5 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
