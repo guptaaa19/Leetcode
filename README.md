@@ -19,6 +19,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0729-my-calendar-i](https://github.com/guptaaa19/Leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/guptaaa19/Leetcode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/guptaaa19/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/guptaaa19/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -58,6 +59,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0729-my-calendar-i](https://github.com/guptaaa19/Leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/guptaaa19/Leetcode/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/guptaaa19/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/guptaaa19/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
+| [0729-my-calendar-i](https://github.com/guptaaa19/Leetcode/tree/master/0729-my-calendar-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -222,4 +225,12 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/guptaaa19/Leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/guptaaa19/Leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
