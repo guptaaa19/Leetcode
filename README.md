@@ -48,6 +48,7 @@
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/guptaaa19/Leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -188,6 +189,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/guptaaa19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
+| [0443-string-compression](https://github.com/guptaaa19/Leetcode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
