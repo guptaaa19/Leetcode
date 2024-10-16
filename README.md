@@ -99,6 +99,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/guptaaa19/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/guptaaa19/Leetcode/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/guptaaa19/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/guptaaa19/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/guptaaa19/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/guptaaa19/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -241,4 +243,5 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/guptaaa19/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/guptaaa19/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
