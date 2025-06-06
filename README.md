@@ -29,6 +29,7 @@
 | [2048-build-array-from-permutation](https://github.com/guptaaa19/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/guptaaa19/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/guptaaa19/Leetcode/tree/master/2155-find-missing-observations) |
+| [2350-find-closest-number-to-zero](https://github.com/guptaaa19/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/guptaaa19/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
