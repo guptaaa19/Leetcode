@@ -6,14 +6,14 @@ public:
         };
         int n = s.size();
         int sum = 0;
-        for(int i=0;i<n;i++){
-            if(roman[s[i]]>roman[s[i+1]] || roman[s[i]]==roman[s[i+1]]){
+        for(int i=0;i<n-1;i++){
+            if(roman[s[i]]>=roman[s[i+1]] ){
                 sum = sum + roman[s[i]];
             }
             else if(roman[s[i]]<roman[s[i+1]]){
                 sum = sum - roman[s[i]];
             }
         }
-        return sum;
+        return sum += roman[s[n - 1]];;
     }
 };
