@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/guptaaa19/Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -104,6 +105,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/guptaaa19/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/guptaaa19/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/guptaaa19/Leetcode/tree/master/0189-rotate-array) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/guptaaa19/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/guptaaa19/Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [0443-string-compression](https://github.com/guptaaa19/Leetcode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
