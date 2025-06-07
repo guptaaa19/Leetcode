@@ -50,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/guptaaa19/Leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -130,6 +131,7 @@
 | [0213-house-robber-ii](https://github.com/guptaaa19/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/guptaaa19/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/guptaaa19/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -195,6 +197,7 @@
 | [0010-regular-expression-matching](https://github.com/guptaaa19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/guptaaa19/Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/guptaaa19/Leetcode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/guptaaa19/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
