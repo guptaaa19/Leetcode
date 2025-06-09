@@ -198,6 +198,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/guptaaa19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/guptaaa19/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/guptaaa19/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/guptaaa19/Leetcode/tree/master/0443-string-compression) |
@@ -211,6 +212,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/guptaaa19/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
