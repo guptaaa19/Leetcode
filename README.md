@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaa19/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/guptaaa19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/guptaaa19/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/guptaaa19/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptaaa19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptaaa19/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/guptaaa19/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/guptaaa19/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -75,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/guptaaa19/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/guptaaa19/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
