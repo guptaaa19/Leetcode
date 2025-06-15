@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/guptaaa19/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/guptaaa19/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/guptaaa19/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/guptaaa19/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/guptaaa19/Leetcode/tree/master/0213-house-robber-ii) |
@@ -39,6 +40,7 @@
 | [0013-roman-to-integer](https://github.com/guptaaa19/Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/guptaaa19/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/guptaaa19/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -72,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/guptaaa19/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -121,6 +124,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaa19/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/guptaaa19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/guptaaa19/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,4 +260,8 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/guptaaa19/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/guptaaa19/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/guptaaa19/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
