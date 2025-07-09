@@ -18,6 +18,7 @@
 | [0198-house-robber](https://github.com/guptaaa19/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/guptaaa19/Leetcode/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/guptaaa19/Leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/guptaaa19/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/guptaaa19/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -46,6 +47,7 @@
 | [0139-word-break](https://github.com/guptaaa19/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/guptaaa19/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/guptaaa19/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/guptaaa19/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/guptaaa19/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -70,6 +72,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaa19/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaaa19/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/guptaaa19/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/guptaaa19/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/guptaaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -83,6 +86,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/guptaaa19/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/guptaaa19/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/guptaaa19/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptaaa19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -122,6 +126,7 @@
 | [0013-roman-to-integer](https://github.com/guptaaa19/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/guptaaa19/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/guptaaa19/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/guptaaa19/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/guptaaa19/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -254,6 +259,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/guptaaa19/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/guptaaa19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Segment Tree
