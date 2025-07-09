@@ -1,16 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int n = nums.size();
-        map<int,int>mp;
+        int res = 0;
         for (int i : nums) {
-            mp[i]++;
+            res = res ^ i;
         }
-        for(auto i:mp){
-            if(i.second == 1){
-                return i.first;
-            }
-        }
-        return -1;
+        return res;
     }
 };
