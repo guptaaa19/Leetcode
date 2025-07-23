@@ -229,6 +229,7 @@
 | [0539-minimum-time-difference](https://github.com/guptaaa19/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/guptaaa19/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1205-defanging-an-ip-address](https://github.com/guptaaa19/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/guptaaa19/Leetcode/tree/master/1970-sorting-the-sentence) |
