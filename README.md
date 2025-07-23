@@ -94,6 +94,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/guptaaa19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/guptaaa19/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/guptaaa19/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-sorting-the-sentence](https://github.com/guptaaa19/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/guptaaa19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/guptaaa19/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1894-merge-strings-alternately](https://github.com/guptaaa19/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1970-sorting-the-sentence](https://github.com/guptaaa19/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/guptaaa19/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/guptaaa19/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
